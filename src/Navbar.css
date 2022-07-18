@@ -1,0 +1,15 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    padding: 10px;
+    width: 100%;
+    z-index: 1;
+    transition: all .5s;
+}
+.nav_black{
+    background-color: rgba(17, 17, 17, .9);
+}
+.nav_logo{
+    width: 120px;
+    object-fit: contain;
+}
